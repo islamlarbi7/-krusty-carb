@@ -1,1 +1,3 @@
-testtttttttttt
+program test ;
+var 
+x=7
